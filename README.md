@@ -4,21 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=MariamAmy&label=Profile%20views&color=0e75b6&style=flat" alt="Mariam" />
 </div>
 
-<br/>
-
-<div align="center">
-
-
-<a href="https://linkedin.com/in/mariam-ayman-9018591b7"><img align="left" alt="Mariam's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
-
-  
-<a href="https://codeforces.com/profile/Mariam.Ayman" target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mariam.Ayman" height="30" width="40" />
-</a>
-
-</div>
-<br />
-<br />
 <br />
 <br />
 
