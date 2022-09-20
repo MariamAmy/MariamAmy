@@ -28,7 +28,10 @@
 💡 &nbsp;I am passionate about Competitive Programming. I love challenges and problem solving.\
 🌱 &nbsp;I have worked on different technologies & did some small projects looking forward to discover my Technology Domain of interest.\
 💻 &nbsp;I'm on track for learning more about Problem Solving Techniques, Software Development, and Systems Design.\
-✍️ &nbsp;In my free time, I pursue Reading Books and Writing. Sometimes, I rewatch some of MIT_OCW Courses👀.\
+✍️ &nbsp;In my free time, I pursue Reading Books and Writing. Sometimes, I rewatch some of MIT_OCW Courses👀.
+
+<br />
+<br />
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -43,7 +46,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-###### Operating System Used :
+###### Operating Systems Used :
 ![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)
 
 
