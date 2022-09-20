@@ -1,4 +1,4 @@
-<h1> Hey! 👋, I'm [Mariam](/linkedin.com/in/mariam-ayman-9018591b7)( Programmer & Tech Enthusiast)</h1>
+<h1> Hey! 👋, I'm [Mariam](linkedin.com/in/mariam-ayman-9018591b7)( Programmer & Tech Enthusiast)</h1>
 
 <div align="">
   <img src="https://komarev.com/ghpvc/?username=MariamAmy&label=Profile%20views&color=0e75b6&style=flat" alt="Mariam" />
