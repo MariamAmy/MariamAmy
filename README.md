@@ -30,8 +30,7 @@
 💻 &nbsp;I'm on track for learning more about Problem Solving Techniques, Software Development, and Systems Design.\
 ✍️ &nbsp;In my free time, I pursue Reading Books and Writing. Sometimes, I rewatch some of MIT_OCW Courses👀.
 
-<br />
-<br />
+
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -49,10 +48,7 @@
 ###### Operating Systems Used :
 ![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)
 
-<br />
-<br />
-
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/MariamAmy">
