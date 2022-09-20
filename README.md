@@ -1,4 +1,4 @@
-<h1> Hey! 👋, I'm Mariam</h1>
+<h1> Hey! 👋, I'm Mariam ( Programmer & Tech Enthusiast)</h1>
 
 <div align="">
   <img src="https://komarev.com/ghpvc/?username=MariamAmy&label=Profile%20views&color=0e75b6&style=flat" alt="Mariam" />
@@ -25,8 +25,8 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I am a diligent Computer Engineering student at E-JUST University in Egypt.\
-💡 &nbsp;I am passionate about Competitive Programming. I love challenges and problem solving.\
-🌱 &nbsp;I have worked on different technologies & did some small projects looking forward to discover my Technology Domain of interest.\
+💡 &nbsp;I am passionate about Competitive Programming. I love Challenges and Problem Solving. I like to develop software solutions and quick hacks\
+🌱 &nbsp;I am interested in exploring new technologies & I did some small projects on different technologies looking forward to discover my Technology Domain of interest.\
 💻 &nbsp;I'm on track for learning more about Problem Solving Techniques, Software Development, and Systems Design.\
 ✍️ &nbsp;In my free time, I pursue Reading Books and Writing. Sometimes, I rewatch some of MIT_OCW Courses👀.
 
