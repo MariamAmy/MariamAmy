@@ -25,8 +25,8 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I am a diligent Computer Engineering student at E-JUST University in Egypt.\
-💡 &nbsp;I am passionate about Competitive Programming. I love Challenges and Problem Solving. I like to develop software solutions and quick hacks\
-🌱 &nbsp;I am interested in exploring new technologies & I did some small projects on different technologies looking forward to discover my Technology Domain of interest.\
+💡 &nbsp;I am passionate about Competitive Programming. I love Challenges & Problem Solving. I like to develop software solutions & quick hacks\
+🌱 &nbsp;I am interested in exploring new technologies & looking forward to discover my Technology Domain of interest.\
 💻 &nbsp;I'm on track for learning more about Problem Solving Techniques, Software Development, and Systems Design.\
 ✍️ &nbsp;In my free time, I pursue Reading Books and Writing. Sometimes, I rewatch some of MIT_OCW Courses👀.
 
