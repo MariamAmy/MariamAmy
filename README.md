@@ -24,6 +24,7 @@ Hey! 👋, I'm [Mariam](https://linkedin.com/in/mariam-ayman-9018591b7) ( Progra
 ###### Prgoramming Languages :
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python&logoColor=FFA)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
