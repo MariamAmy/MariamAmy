@@ -33,6 +33,7 @@ Hey! 👋, I'm [Mariam](https://linkedin.com/in/mariam-ayman-9018591b7) ( Progra
 
 
 ###### Operating Systems Used :
+![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)
 ![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)
 
 ## ⚙️ &nbsp;GitHub Analytics
