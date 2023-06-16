@@ -8,7 +8,7 @@ Hey! 👋, I'm [Mariam](https://linkedin.com/in/mariam-ayman-9018591b7) ( Progra
 <br />
 <br />
 
-## 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;Know More About Mariam!
 
 🎓 &nbsp;I am a diligent Computer Engineering student at E-JUST University in Egypt.\
 💡 &nbsp;I am passionate about Competitive Programming. I love Challenges & Problem Solving.\
