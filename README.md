@@ -18,24 +18,6 @@ Hey! 👋, I'm [Mariam](https://linkedin.com/in/mariam-ayman-9018591b7) ( Progra
 
 
 
-
-## 🛠 &nbsp;Tech Stack
-
-###### Prgoramming Languages :
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python&logoColor=FFA)&nbsp;
-![C#](https://img.shields.io/badge/C%23-C%20Sharp-05122A)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-
-###### Software Development Tools :
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-###### Operating Systems Used :
-![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=Linux)
-![Windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=Windows)
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
