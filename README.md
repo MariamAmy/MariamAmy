@@ -6,7 +6,6 @@ Hey! 👋, I'm [Mariam](https://linkedin.com/in/mariam-ayman-9018591b7) ( Progra
 </div>
 
 <br />
-<br />
 
 ## 👨🏻‍💻 &nbsp;Know More About Mariam!
 
